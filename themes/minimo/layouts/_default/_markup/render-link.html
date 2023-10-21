@@ -1,0 +1,30 @@
+{{- $linkurl := .Destination }}
+{{- $relval := ""}}
+{{- $targetval := ""}}
+{{- $classval := "" }}
+{{- if strings.HasPrefix $linkurl "http" }}
+    {{- $targetval = printf "%s %s"  $targetval "_blank" }}
+    {{- $relval = printf "%s %s" $relval "noopener" }}
+    {{- $classval = printf "%s %s" $classval "external" }}
+{{- end -}}
+{{- if strings.HasSuffix $linkurl "#?" }} 
+    {{- $relval = printf "%s %s" $relval "nofollow" }}
+    {{- $urlparts := split $linkurl "#" -}}
+    {{- $linkurl = index $urlparts 0}}
+{{- end -}}
+<a href="{{ $linkurl | safeURL }}"
+    {{- with .Title}} title="{{ trim . " " }}"{{ end -}}
+    {{- with $relval}} rel="{{ trim . " " }}"{{ end -}}
+    {{- with $targetval}} target="{{ trim . " " }}"{{ end -}}
+    {{- with $classval}} class="{{ trim . " " }}"{{ end -}}
+>{{ .Text | safeHTML }}</a>
+{{- if strings.HasPrefix $linkurl "http" }}
+    {{- if gt (sub now.Year .Page.Date.Year) 5 }} 
+    {{- $relval = printf "%s %s" $relval "nofollow" }}
+    (<a href="https://web.archive.org/web/{{ .Page.Date.Year }}*/{{ $linkurl }}"
+        {{- with $relval}} rel="{{ trim . " " }}"{{ end -}}
+        {{- with $targetval}} target="{{ trim . " " }}"{{ end -}}
+        {{- with $classval}} class="{{ trim . " " }}"{{ end -}}
+        >archive.org</a>)
+    {{- end -}}
+{{- end -}}
