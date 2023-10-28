@@ -21,6 +21,10 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
+# Added by chan for header
+[params.header]
+brosurmah = "/images/brosurmah-header.webp" 
+
 [params.info]
 description = "Download brosur / product knowledge / flyer rumah, ruko, apartemen baru launching perdana dalam file pdf."
 title404 = "Nothing's here!"

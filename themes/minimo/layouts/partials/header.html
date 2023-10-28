@@ -24,11 +24,14 @@
         <div class='container sep-after'>
           <div class='header-info'>
             {{- if eq .Kind "home" -}}
-              <h1 class='site-title title'>{{ .Site.Title }}</h1>
+              <h1 class='site-title title'>{{ .Site.Title }}</h1>              
             {{- else -}}
               <p class='site-title title'>{{ .Site.Title }}</p>
             {{- end -}}
             <p class='desc site-desc'>{{ .Site.Params.info.description }}</p>
+            <br/>
+            <img src={{.Site.BaseURL}}{{ .Site.Params.header.brosurmah }}/>
+          
           </div>
         </div>
       </header>
