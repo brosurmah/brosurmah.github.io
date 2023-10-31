@@ -3,7 +3,7 @@ date: "2023-10-28"
 title: "Brosur Rukan River Safari PIK 2 Jakarta"
 authors: [brosurmah]
 categories: [rukan,ruko]
-tags: [jakarta,pik 2]
+tags: [jakarta,pik 2,agung sedayu group]
 draft: false
 ---
 

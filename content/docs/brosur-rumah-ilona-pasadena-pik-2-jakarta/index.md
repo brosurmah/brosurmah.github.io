@@ -4,7 +4,7 @@ title: "Brosur Rumah Ilona @ Pasadena Hills PIK 2 Jakarta"
 aliases: ["/brosur-rumah-ilona-pasadena-hills-pik-2-jakarta"]
 authors: [brosurmah]
 categories: [rumah]
-tags: [jakarta,pik 2,agung sedayu group]
+tags: [jakarta,pik 2,agung sedayu group,Pasadena Hills]
 draft: false
 ---
 

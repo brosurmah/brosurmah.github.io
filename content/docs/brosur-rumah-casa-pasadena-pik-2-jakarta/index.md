@@ -3,7 +3,7 @@ date: "2023-10-22"
 title: "Brosur Rumah Casa Pasadena PIK 2 Jakarta"
 authors: [brosurmah]
 categories: [rumah]
-tags: [jakarta,pik2,casa pasadena]
+tags: [jakarta,pik 2,casa pasadena,agung sedayu group]
 draft: false
 ---
 
