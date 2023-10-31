@@ -11,7 +11,7 @@ draft: false
 ## Download Brosur Rumah Ilona @ Pasadena Hills PIK 2 Jakarta
 Download **brosur rumah Ilona Pasadena Hills PIK 2** yang telah dirilis perdana oleh pengembang [Agung Sedayu Group](https://www.agungsedayu.com/en#?) secara resmi di tahun 2023.
 
-[![brosur rumah ilona pasadena hills pik 2](brosur-rumah-ilona-pasadena-hills-pik-2.webp)](https://drive.google.com/drive/folders/1o3JRMnOgyZipp7tMX12Hdrqfi_eq3bff?usp=share_link#?)
+[![brosur rumah ilona pasadena hills pik 2](brosur-rumah-ilona-pasadena-hills-pik-2.webp)](https://drive.google.com/drive/folders/1EyjlECPOYRgV61h2kC7bHz2MOYuWRVH5?usp=drive_link#?)
 
 ## Mengenai Rumah Ilona @ Pasadena Hills
 **PIK 2** kembali menawarkan hunian rumah dengan harga terjangkau di [perumahan Pasadena Hills](/docs/brosur-rumah-casa-pasadena-pik-2-jakarta/). **Ilona**, rumah baru di Pasadena Hills PIK 2 launching perdana 2023 dengan 3 pilihan tipe rumah, lebar 4,5 dan 6 meter dengan panjang 9 meter. 
