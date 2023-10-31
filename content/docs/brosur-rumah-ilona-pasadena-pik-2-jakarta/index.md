@@ -18,7 +18,11 @@ Download **brosur rumah Ilona Pasadena Hills PIK 2** yang telah dirilis perdana 
 
 ![Rumah Ilona Pasadena Hills PIK 2](rumah-ilona-pasadena-hills-pik2.webp)
 
-**Harga jual rumah Pasadena Hills PIK 2 Ilona** saat launching perdana mulai Rp. 1,3 milyaran*. [Rumah Pasadena Hills PIK 2](https://investproperti.com/casa-pasadena-pik-2-jakarta/) dengan desain modern minimalis dan tata ruang yang compact, cocok bagi generasi milenial, z-nial yang sedang mencari rumah pertama. Untuk harga jual rumah Pasadena Hills terbaru, bisa langsung hubungi [sales rumah PIK 2](https://pik2home.com/hubungi-kami/) ya.
+**Harga jual rumah Pasadena Hills PIK 2 Ilona** saat launching perdana mulai Rp. 1,3 milyaran*. [Rumah Pasadena Hills PIK 2](https://investproperti.com/casa-pasadena-pik-2-jakarta/) dengan desain modern minimalis dan tata ruang yang compact, cocok bagi generasi milenial, z-nial yang sedang mencari rumah pertama. 
+
+![Contoh Desain Interior Rumah Pasadena Hills PIK 2](contoh-desain-rumah-ilona-pasadena-hills.webp)
+
+Untuk harga jual rumah Pasadena Hills terbaru, bisa langsung hubungi [sales rumah PIK 2](https://pik2home.com/hubungi-kami/) ya.
 
 ![Pasadena Hills PIK 2](pasadena-hills-pik2-jakarta.webp)
 
@@ -30,6 +34,11 @@ Download **brosur rumah Ilona Pasadena Hills PIK 2** yang telah dirilis perdana 
 
 Memadukan ruang terbuka hijau yang ramah lingkungan, dipadu dengan tata ruang landscape yang memberikan udara sehat bagi penghuni perumahan PIK 2. Itulah fitur Danau & Eco Park PIK 2.
 ![Danau Eco Park PIK 2](danau-ecopark-pik2-jakarta.webp)
+
+### Pasar Segar
+
+Pasar Segar Milenial PIK 2 menyediakan kebutuhan sehari-hari yang lengkap bagi penghuni perumahan. 
+![Pasar Segar Milenial PIK 2](pasar-segar-millenial-pik-2.webp)
 
 ## Dijual Rumah Ilona @ Pasadena Hills PIK 2
 
@@ -79,6 +88,9 @@ Spesifikasi rumah:
 - 1 carport.
 
 ![Section Design Rumah Ilona tipe Kirana](section-desain-rumah-ilona-pasadena-hills-tipe-kirana.webp)
+
+### Siteplan Pasadena Hills PIK 2
+![Siteplan Pasadena Hills PIK 2](siteplan-pasadena-hills-ilona-pik-2.webp)
 
 ### Dimana Lokasi Pasadena Hills PIK 2 ?
 Berada di kawasan [PIK 2 Jakarta](https://pik2home.com), perumahan Pasadena Hills PIK 2 berlokasikan strategis melihat gambar peta dibawah. Posisi perumahan ditengah PIK 2 diapit 2 akses jalan interchange.
