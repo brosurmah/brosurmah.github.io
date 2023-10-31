@@ -89,6 +89,8 @@ Spesifikasi rumah:
 
 ![Section Design Rumah Ilona tipe Kirana](section-desain-rumah-ilona-pasadena-hills-tipe-kirana.webp)
 
+**Rumah Pasadena Hills PIK 2** belum dilengkapi dengan atap kanopi mobil. Anda dapat memilih [atap alderon](https://atap-alderon.co.id/) sebagai atap pelindung mobil di halaman depan rumah baru anda.
+
 ### Siteplan Pasadena Hills PIK 2
 ![Siteplan Pasadena Hills PIK 2](siteplan-pasadena-hills-ilona-pik-2.webp)
 
