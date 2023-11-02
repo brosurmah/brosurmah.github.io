@@ -5,6 +5,7 @@ aliases: ["/brosur-rumah-nykka-alam-sutera-tangerang"]
 authors: [brosurmah]
 categories: [rumah]
 tags: [alam sutera,tangerang]
+socialshare: true
 draft: false
 ---
 

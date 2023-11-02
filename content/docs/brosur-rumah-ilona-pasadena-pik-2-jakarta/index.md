@@ -5,6 +5,7 @@ aliases: ["/brosur-rumah-ilona-pasadena-hills-pik-2-jakarta"]
 authors: [brosurmah]
 categories: [rumah]
 tags: [jakarta,pik 2,agung sedayu group,Pasadena Hills]
+socialshare: true
 draft: false
 ---
 

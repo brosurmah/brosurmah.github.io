@@ -5,6 +5,7 @@ aliases: ["/brosur-rumah-strozzi-symphonia-summarecon-serpong"]
 authors: [brosurmah]
 categories: [rumah]
 tags: [summarecon serpong,tangerang, gading serpong, symphonia summarecon serpong]
+socialshare: true
 draft: false
 ---
 
