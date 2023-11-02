@@ -1,9 +1,11 @@
 {{ partial "header" . }}
 
 {{ if .Content }}
+
 <div class='entry'>
   {{ partial "entry/cover" . }}
   {{ partial "entry/content" . }}
+ 
 </div>
 {{ end }}
 
@@ -14,6 +16,8 @@
     {{- partial "extras/widget_area" ( dict "Widgets" $homepageWidgets "Scope" . ) -}}
   </div>
 </div>
+
+
 {{- end -}}
 
 {{ partial "footer" . }}

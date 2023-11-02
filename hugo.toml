@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 5
+Paginate = 10
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -21,9 +21,16 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
-# Added by chan for header
+# Added by chan for header and custom css
 [params.header]
 brosurmah = "images/brosurmah-header.webp" 
+
+[params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true
 
 [params.info]
 description = "Download brosur / product knowledge / flyer rumah, ruko, apartemen baru launching perdana dalam file pdf."
