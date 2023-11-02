@@ -133,10 +133,10 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Brosurmah"
+name = "Home"
 weight = -10
 identifier = "Brosurmah"
-url = "https://brosurmah.github.io"
+url = "https://brosurmah.com"
 
 [blackfriday]
 hrefTargetBlank = true
