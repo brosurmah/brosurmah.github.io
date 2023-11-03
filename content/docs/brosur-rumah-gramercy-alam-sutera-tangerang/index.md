@@ -10,12 +10,12 @@ draft: false
 ---
 
 ## Download Brosur Rumah Gramercy Alam Sutera
-Download **brosur rumah Gramercy Alam Sutera** yang telah dirilis perdana oleh pengembang [Alam Sutera](https://alam-sutera.com#?) secara resmi. 
+Download **brosur rumah Gramercy Alam Sutera** yang telah dirilis perdana oleh pengembang [Alam Sutera](https://alam-sutera.com#?) secara resmi beserta price list harga rumah Gramercy yang berlaku hingga awal 2024.
 
 [![brosur rumah gramercy alam sutera](brosur-rumah-gramercy-alam-sutera.webp)](https://drive.google.com/drive/folders/1KDZprOlUigBLBEXa68rRyI8Ll2dDvtb1?usp=drive_link#?)
 
 ## Mengenai Rumah Gramercy Alam Sutera
-**Gramercy** perumahan baru Alam Sutera Tangerang launching perdana 2023. [Rumah Sultan Alam Sutera Gramercy dijual](https://investproperti.com/gramercy-alam-sutera-rumah-sultan-terbaru-tangerang/) dengan unit sangat terbatas. Desain fasad rumah yang megah, dengan luas tanah daripada 398 m2 s.d 598 m2.
+**Gramercy** perumahan baru Alam Sutera Tangerang launching perdana 2023. [Rumah Sultan Alam Sutera Gramercy dijual](https://investproperti.com/gramercy-alam-sutera-rumah-sultan-terbaru-tangerang/) dengan unit sangat terbatas, harga jual rumah mulai Rp. 16 milyaran *. Desain fasad rumah yang megah, dengan luas tanah daripada 398 m2 s.d 598 m2.
 
 ![Rumah Gramercy Alam Sutera](rumah-gramercy-alam-sutera.webp)
 
