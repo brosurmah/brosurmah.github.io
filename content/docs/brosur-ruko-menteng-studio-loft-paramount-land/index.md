@@ -52,7 +52,7 @@ Berbagai fitur ruko Menteng Studio Loft Paramount Land yang diberikan kepada pem
 ![fitur ruko menteng studio loft gading serpong](ruko-menteng-studio-loft-gading-serpong.webp)
 ![fitur ruko menteng studio loft gading serpong](ruko-menteng-studio-loft-paramount-serpong.webp)
 
-Saat launching perdana, [ruko Menteng Studio Loft](https://investproperti.com/menteng-studio-loft-paramount-land-gading-serpong/) dijual mulai Rp.8 milyaran*. Untuk mengetahui info ter-update, langsung saja hubungi [sales ruko Menteng Studio Loft](https://pik2home.com/hubungi-kami/) untuk mendapatkan price list harga terbaru.
+Saat launching perdana, [ruko Menteng Studio Loft](https://investproperti.com/menteng-studio-loft-paramount-land-gading-serpong/) dijual mulai Rp.8 milyaran*. Untuk mengetahui info ter-update, langsung saja hubungi sales ruko Menteng Studio Loft untuk mendapatkan price list harga terbaru.
 
 ![feature menteng studio loft gading serpong](menteng-studio-loft-paramount-feature.webp)
 
