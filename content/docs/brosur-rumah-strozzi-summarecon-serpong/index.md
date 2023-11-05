@@ -47,3 +47,6 @@ Kalau anda berminat untuk membeli rumah Strozzi atau ingin bertanya lebih lanjut
 
 Untuk info price list harga rumah Strozzi juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Strozzi Summarecon Serpong">}}
+
+{{< footerclaim namaproperti="Rumah Strozzi Summarecon Serpong">}}

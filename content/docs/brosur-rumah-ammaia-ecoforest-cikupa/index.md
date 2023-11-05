@@ -47,3 +47,6 @@ Jika anda sedang mencari rumah baru di Cikupa, Tangerang baru saja launching har
 
 Untuk info price list harga rumah Ammaia Ecoforest cluster Lavatera juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Ammaia Ecoforest Cikupa">}}
+
+{{< footerclaim namaproperti="Rumah Ammaia Ecoforest Cikupa">}}

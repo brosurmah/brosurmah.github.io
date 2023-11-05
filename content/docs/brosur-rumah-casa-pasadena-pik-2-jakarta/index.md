@@ -80,3 +80,6 @@ Jika anda sedang mencari rumah baru di PIK 2 Jakarta yang baru saja launching pe
 
 Untuk info price list harga rumah Casa Pasadena juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh [pengembang PIK 2](https://pik2.com/tentang#?).
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Casa Pasadena PIK 2">}}
+
+{{< footerclaim namaproperti="Rumah Casa Pasadena PIK 2">}}

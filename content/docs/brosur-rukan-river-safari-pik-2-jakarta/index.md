@@ -76,3 +76,7 @@ Jika anda sedang mencari rukan / ruko baru di PIK 2 yang baru saja launching per
 
 Untuk info price list harga rukan River Safari PIK 2 juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rukan River Safari PIK 2">}}
+
+{{< footerclaim namaproperti="Rukan River Safari PIK 2">}}
+

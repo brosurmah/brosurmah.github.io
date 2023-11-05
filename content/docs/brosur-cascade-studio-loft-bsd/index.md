@@ -30,4 +30,8 @@ Dengan memperhatikan gambar google map dibawah, lokasi Cascade Studio Loft berad
 Sumber gambar: [BSDCityHome.com](https://bsdcityhome.com/project/cascade-studio-loft-bsd/#?)
 
 ## Sales Ruko Cascade Studio Loft BSD
-Ingin mengetahui lebih lanjut mengenai **Cascade Studio Loft BSD** ruko mewah terbaru launching perdana Q4 2023 ? Hubungi **sales ruko Cascade Studio Loft BSD** untuk mendapatkan info pasti kapan launching perdana, tata cara mendapatkan NUP, pilihan tipe unit, cara pembayaran tersedia dan bank kerjasama oleh pengembang.
+Ingin mengetahui lebih lanjut mengenai **Cascade Studio Loft BSD** ruko mewah terbaru launching perdana Q4 2023 ? Hubungi **sales ruko Cascade Studio Loft BSD** untuk mendapatkan info pasti kapan launching perdana, tata cara mendapatkan NUP, pilihan tipe unit, cara pembayaran tersedia dan bank kerjasama oleh pengembang BSD City.
+
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Ruko Cascade Studio Loft BSD">}}
+
+{{< footerclaim namaproperti="Ruko Cascade Studio Loft BSD">}}

@@ -135,3 +135,6 @@ Anda berminat untuk membeli rumah Park Serpong atau ingin bertanya lebih lanjut 
 
 Untuk info price list harga rumah XYZ Livin juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Lippo Karawaci.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Park Serpong XYZ Livin">}}
+
+{{< footerclaim namaproperti="Rumah Park Serpong XYZ Livin">}}

@@ -104,3 +104,33 @@ ul.share-icons li > * .label {
 .share-btn.pinterest:hover   { background: #AD0000; }
 .share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
+
+/* Floating Whatsapp button */
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+    font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
+/* footerclaim */
+.footerclaim {
+    border-top: 1px solid #cecece;
+    padding-top: 1em;
+    margin-top: 20px;
+    font-size: 0.875em;
+    font-style: italic;
+    line-height: 1.5;
+}

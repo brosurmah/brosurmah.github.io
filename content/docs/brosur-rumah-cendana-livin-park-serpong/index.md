@@ -43,7 +43,7 @@ Spesifikasi:
 - 1,5 kamar mandi
 - 1 carpot
 
-![Rumah XYZ Livin tipe 1](denah-rumah-cendana-livin-park-serpong-tipe-1.webp)
+![Rumah Cendana Livin tipe 1](denah-rumah-cendana-livin-park-serpong-tipe-1.webp)
 
 ### Tipe 2
 2 lantai rumah Cendana Livin tipe 2 dengan halaman belakang, dimensi 5,5 x 15 meter.
@@ -55,7 +55,7 @@ Spesifikasi:
 - 3 kamar mandi
 - 1 carpot
 
-![Rumah XYZ Livin tipe 2](denah-rumah-cendana-livin-park-serpong-tipe-2.webp)
+![Rumah Cendana Livin tipe 2](denah-rumah-cendana-livin-park-serpong-tipe-2.webp)
 
 ### Tipe 3
 2 lantai rumah Cendana Livin tipe 2 dengan halaman belakang, dimensi 6,5 x 15 meter.
@@ -67,10 +67,13 @@ Spesifikasi:
 - 3 kamar mandi
 - 1 carpot
 
-![Rumah XYZ Livin tipe 3](denah-rumah-cendana-livin-park-serpong-tipe-3.webp)
+![Rumah Cendana Livin tipe 3](denah-rumah-cendana-livin-park-serpong-tipe-3.webp)
 
 ## Sales Rumah Park Serpong
 Anda berminat untuk membeli rumah Park Serpong atau ingin bertanya lebih lanjut mengenai produk hunian rumah baru Cendana Livin yang launching perdana di tahun 2023 ini, dapat menghubungi [sales rumah Park Serpong](https://park-serpong.id/hubungi-kami/) yang bisa anda percaya dan selalu siap membantu anda.
 
 Untuk info price list harga rumah Cendana Livin juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Lippo Karawaci.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Park Serpong Cendana Livin">}}
+
+{{< footerclaim namaproperti="Rumah Park Serpong Cendana Livin">}}

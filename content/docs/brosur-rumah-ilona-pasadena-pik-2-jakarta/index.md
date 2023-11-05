@@ -107,3 +107,6 @@ Anda berminat untuk membeli rumah Ilona Pasadena Hills atau ingin bertanya lebih
 
 Untuk info price list harga rumah Pasadena Hills PIK 2 juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Ilona @ Pasadena Hills PIK 2">}}
+
+{{< footerclaim namaproperti="Rumah Ilona @ Pasadena Hills PIK 2">}}

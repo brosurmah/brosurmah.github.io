@@ -92,3 +92,6 @@ Anda berminat untuk membeli [rumah Nykka Alam Sutera](https://investproperti.com
 
 Untuk info price list harga rumah Nykka juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Alam Sutera.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Nykka Alam Sutera">}}
+
+{{< footerclaim namaproperti="Rumah Nykka Alam Sutera">}}

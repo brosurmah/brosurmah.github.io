@@ -66,3 +66,6 @@ Jika anda sedang mencari ruko baru di Gading Serpong baru launching perdana 2023
 
 Untuk info price list harga Sorrento Grande Paramount Land juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Ruko Sorrento Grande-East Paramount">}}
+
+{{< footerclaim namaproperti="Ruko Sorrento Grande-East Paramount">}}

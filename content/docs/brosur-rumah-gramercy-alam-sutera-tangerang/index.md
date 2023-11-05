@@ -70,3 +70,6 @@ Miliki rumah sultan Alam Sutera dengan membeli rumah Gramercy yang dijual sangat
 
 Untuk info price list harga rumah Gramercy juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Alam Sutera.
 
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Gramercy Alam Sutera">}}
+
+{{< footerclaim namaproperti="Rumah Gramercy Alam Sutera">}}
