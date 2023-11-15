@@ -30,7 +30,7 @@ Dimana lokasi ruko The Hive ? Pada gambar master plan terbaru Park Serpong, terl
 
 ![lokasi the hive park avenue park serpong](lokasi-the-hive-park-avenue-park-serpong.webp)
 
-Potensi pangsa pasar ruko Park Serpong The Hive adalah sangat besar dengan target hunian rumah Park Serpong di masa mendatang akan mencapai sehingga 25 ribu unit.
+Potensi pangsa pasar ruko Park Serpong The Hive adalah sangat besar dengan target hunian rumah Park Serpong di masa mendatang akan mencapai sehingga 25 ribu unit. Dapat dilihat juga [rumah XYZ Livin](/docs/brosur-rumah-xyz-livin-park-serpong/) dan [Cendana Livin Park Serpong](/docs/brosur-rumah-cendana-livin-park-serpong/) jika anda sedang mencari hunian rumah baru di Legok, Tangerang.
 
 ## Dijual Ruko Park Serpong The Hive @ Park Avenue
 Ruko baru Park Serpong The Hive @ Park Avenue dijual perdana dengan 2 pilihan tipe ruko sebagai berikut:
