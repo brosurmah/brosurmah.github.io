@@ -10,8 +10,7 @@ draft: false
 ---
 
 ## Download Brosur Rumah Adora Primes @ Terravia BSD
-Download **brosur rumah Adora Primes Terravia BSD** yang baru saja dirilis secara resmi oleh pengembang [BSD City](https://www.bsdcity.com
-#?). **Rumah Adora Primes** adalah tipe rumah 3 lantai yang premium dengan berbagai keunggulan lebih ditawarkan dibandingkan dengan tipe rumah Adora 2 lantai.
+Download **brosur rumah Adora Primes Terravia BSD** yang baru saja dirilis secara resmi oleh pengembang [BSD City](https://www.bsdcity.com#?). **Rumah Adora Primes** adalah tipe rumah 3 lantai yang premium dengan berbagai keunggulan lebih ditawarkan dibandingkan dengan tipe rumah Adora 2 lantai.
 
 [![brosur rumah adora primes terravia bsd](brosur-rumah-terravia-bsd-adora-primes.webp)](https://drive.google.com/drive/folders/1vvg_uDyUiuscNwhE_o2d9VZuHjKb7JsF?usp=drive_link#?)
 
@@ -21,7 +20,7 @@ Cluster perumahan terbaru BSD City Terravia menerapkan konsep hunian yang sustai
 
 Berbagai jenis fasilitas perumahan akan dapat dinikmati oleh penghuni, mulai dari Green Pathway (jogging track), Concordia Lanes (communal park), Serenita Lane (stepped seating pods dan outdoor gym), dan Lattea Park (amphitheater, children arcade, serta collaboration & working pods).
 
-![Cluster Adora Primes BSD](cluster-adora-primes-bsd.webp.webp)
+![Cluster Adora Primes BSD](cluster-adora-primes-bsd.webp)
 ![Adora Primes BSD](adora-primes-bsdcity.webp)
 ![Adora Primes BSD](adora-primes-bsd.webp)
 
