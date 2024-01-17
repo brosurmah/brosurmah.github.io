@@ -75,4 +75,6 @@ Anda berminat untuk membeli [rumah Adora Primes BSD](https://bsdcityhome.com/pro
 
 Untuk info promo pembelian rumah, diskon yang masih berlaku dan price list harga rumah Adora Prime terbaru dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang BSD City.
 
-{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Adora Primes @ Terravia BSD">}
+{{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah Adora Primes @ Terravia BSD">}}
+
+{{< footerclaim namaproperti="Rumah Adora Primes Terravia BSD">}}

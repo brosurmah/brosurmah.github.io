@@ -15,7 +15,7 @@ Download **brosur rumah CitraGarden Serpong** cluster **Belle Fleur** terbaru ta
 [![brosur rumah citragarden serpong cluster belle fleur](brosur-rumah-citragarden-serpong-belle-fleur.webp)](https://drive.google.com/drive/folders/1vOofAamYINrvbUJc9Yq-AqufBhzR4TO3?usp=drive_link#?)
 
 ## Mengenai CitraGarden Serpong
-[CitraGarden Serpong](https://citra-gardenserpong.com/#?) adalah perumahan baru Ciputra di Serpong, Tangerang seluas 350 hektar. Hunian baru CitraGarden Serpong menawarkan hunian konsep TOD dengan lokasinya yang berdekatan dengan stasiun KA Cisauk. Launching perdana pertama kali di Q4 2022, CitraGarden Serpong sukses memasarkan 4 cluster perumahan sekaligus yaitu cluster Aeries, Belle Fleur, Chole dan cluster Diandre.
+[CitraGarden Serpong](https://citra-gardenserpong.com/#?) adalah perumahan baru Ciputra di Serpong, Tangerang seluas 350 hektar. Hunian baru CitraGarden Serpong menawarkan hunian konsep TOD dengan lokasinya yang berdekatan dengan stasiun KA Cisauk. Launching perdana pertama kali di Q4 2022, CitraGarden Serpong sukses memasarkan 4 cluster perumahan sekaligus yaitu cluster Aeries, Belle Fleur, Chole dan [cluster Diandre](https://serpongcitragarden.com/properti/cluster-diandre-citragarden-serpong/).
 
 ## Cluster Belle Fleur
 
@@ -52,7 +52,7 @@ Pilihan tipe terlebar dengan 7 meter dan panjang 12 meter memiliki luas bangunan
 ![Siteplan CitraGarden Serpong Belle Fleur](siteplan-belle-fleur-citragarden-serpong.webp)
 
 ## Sales Rumah CitraGarden Serpong
-Anda berminat untuk membeli rumah CitraGarden Serpong atau ingin bertanya lebih lanjut mengenai produk hunian rumah baru Ciputra di Serpong unit baru di cluster Belle Fleur, dapat menghubungi sales rumah CitraGarden Serpong selalu siap membantu anda.
+Anda berminat untuk membeli rumah CitraGarden Serpong atau ingin bertanya lebih lanjut mengenai produk hunian rumah baru Ciputra di Serpong unit baru di cluster Belle Fleur, dapat menghubungi sales rumah CitraGarden Serpong selalu siap membantu anda. Dapat juga anda lihat [ruko CitraGarden Serpong](https://brosurmah.com/docs/brosur-ruko-citragarden-serpong-la-vallee-boulevard/) yang menghadap jalan boulevard.
 
 Untuk info price list harga rumah Nykka juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Ciputra Group.
 
