@@ -54,7 +54,7 @@ Pilihan tipe terlebar dengan 7 meter dan panjang 12 meter memiliki luas bangunan
 ## Sales Rumah CitraGarden Serpong
 Anda berminat untuk membeli rumah CitraGarden Serpong atau ingin bertanya lebih lanjut mengenai produk hunian rumah baru Ciputra di Serpong unit baru di cluster Belle Fleur, dapat menghubungi sales rumah CitraGarden Serpong selalu siap membantu anda. Dapat juga anda lihat [ruko CitraGarden Serpong](https://brosurmah.com/docs/brosur-ruko-citragarden-serpong-la-vallee-boulevard/) yang menghadap jalan boulevard.
 
-Untuk info price list harga rumah Nykka juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Ciputra Group.
+Untuk info price list harga rumah Citragarden Serpong juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang Ciputra Group.
 
 {{< floatwhatsapp saleswhatsapp="628811682643" namaproperti="Rumah CitraGarden Serpong Belle Fleur">}}
 
