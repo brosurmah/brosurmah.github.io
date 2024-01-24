@@ -49,7 +49,7 @@ Pilihan tipe Arcade ruko Hudson adalah beragam yang dapat dilihat pada gambar di
 ### Tipe Arcade Double Balcony
 ![ruko hudson tipe arcade double balcony](ruko-hudson-gading-serpong-tipe-arcade-double-balcony.webp)
 
-![ruko hudson tipe arcade double balcony a](ruko-hudson-gading-serpong-tipe-arcade-double-balcony-a.webp)
+![ruko hudson tipe arcade double balcony a](ruko-hudson-gading-serpong-tipe-arcade-double-balcony-tipe-a.webp)
 
 Spesifikasi tipe Arcade Double Balcony A adalah:
 - 3 lantai ruko
@@ -57,7 +57,7 @@ Spesifikasi tipe Arcade Double Balcony A adalah:
 - Luas tanah 90 m2
 - Luas bangunan 207 m2
 
-![ruko hudson tipe arcade double balcony b](ruko-hudson-gading-serpong-tipe-arcade-double-balcony-b.webp)
+![ruko hudson tipe arcade double balcony b](ruko-hudson-gading-serpong-tipe-arcade-double-balcony-tipe-b.webp)
 
 Spesifikasi tiep Arcade Double Balcony B adalah:
 - 3 lantai ruko
@@ -68,7 +68,7 @@ Spesifikasi tiep Arcade Double Balcony B adalah:
 ### Tipe Arcade Single Balcony
 ![ruko hudson tipe arcade single balcony](ruko-hudson-gading-serpong-tipe-arcade-single-balcony.webp)
 
-![ruko hudson tipe arcade single balcony c](ruko-hudson-gading-serpong-tipe-arcade-single-balcony-c.webp)
+![ruko hudson tipe arcade single balcony c](ruko-hudson-gading-serpong-tipe-arcade-double-balcony-tipe-c.webp)
 
 Tipe single balcony ruko Hudson Arcade hanya menawarkan 1 pilihan tipe dengan spesifikasi:
 - 3 lantai ruko
