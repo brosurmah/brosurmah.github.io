@@ -23,7 +23,7 @@ draft: false
 ![the hudson gading serpong](the-hudson.webp)
 
 ### Lokasi Ruko The Hudson Gading Serpong
-Berada di kawasan Manhattan District Gading Serpong yang merupakan epicentrum bisnis terbesar di GS saat ini, lokasi ruko the Hudson berada di tengah / jantung kawasan dengan lokasi yang berdekatan dengan jalan boulevard Gading Serpong dengan akses pintu masuk yang beragam.
+Berada di kawasan Manhattan District Gading Serpong yang merupakan epicentrum bisnis terbesar di GS saat ini, lokasi [ruko the Hudson](https://gadingserponghome.com/baru/ruko-the-hudson-paramount-land/) berada di tengah / jantung kawasan dengan lokasi yang berdekatan dengan jalan boulevard Gading Serpong dengan akses pintu masuk yang beragam.
 
 ![lokasi manhattan district gading serpong](lokasi-manhattan-district-gading-serpong.webp)
 
