@@ -31,7 +31,7 @@ Anda pebisnis yang sedang mencari tempat usaha baru didalam kawasan apartemen Se
 ![jalan depan ruko akasa promenade](jalan-depan-ruko-akasa-promenade.webp)
 ![jalan boulevard akasa promenade](jalan-boulevard-akasa-promenade.webp)
 
-Pada gambar potongan samping ruko Akasa Promenade terlihat ceiling ruko yang tinggi pada ke-3 lantai ruko-nya dan area parkir yang memadai sehingga memberikan kenyamanan bagi pengunjung ruko.
+Pada gambar potongan samping [ruko Akasa Promenade](https://www.propertilaunch.com/2024/01/akasa-promenade-bsd-ruko-baru-apartemen.html) terlihat ceiling ruko yang tinggi pada ke-3 lantai ruko-nya dan area parkir yang memadai sehingga memberikan kenyamanan bagi pengunjung ruko.
 
 ![potongan samping ruko akasa promenade](potongan-samping-ruko-akasa-promenade.webp)
 
