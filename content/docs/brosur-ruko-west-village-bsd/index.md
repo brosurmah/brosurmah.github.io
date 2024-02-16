@@ -11,7 +11,7 @@ draft: false
 ## Download Brosur Ruko West Village BSD
 **Download brosur ruko West Village BSD** yang segera dirilis perdana oleh pengembang [BSD City](https://bsdcity.com/#?) secara resmi saat launching perdana pada 2024. **Ruko West Village Business Park** dipasarkan dengan 2 pilihan bangunan yaitu 3 lantai dan 4 lantai, dimana harga jual [ruko West Village BSD](https://bsdcityhome.com/project/west-village-business-park-bsd/#?) mulai dari Rp. 3 milyaran*.
 
-![brosur ruko west village bsd](brosur-ruko-west-village-bsd.webp)
+![brosur ruko west village bsd](brosur-west-village-bsd.webp)
 
 ## West Village Business Park BSD
 **West Village Business Park** adalah produk komersial terbaru BSD City tahun 2024 yang memiliki desain bangunan modern. [West Village Business Park BSD](https://investproperti.com/ruko-west-village-business-park-bsd/) disebut juga sebagai "Your Gateway to Future of BSD City". Gedung komersial business park West Village BSD sangat cocok untuk dijadikan perkantoran, usaha F&B, kafe, beauty, bimbel, floris, dan lainnya.
