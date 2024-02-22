@@ -101,7 +101,7 @@ Dimana lokasi Citra City Sentul ? Berada di kawasan Sentul, Bogor, menuju ke Cit
 ![peta lokasi citra city sentul](peta-lokasi-citra-city-sentul.webp)
 
 ## Sales Rumah Citra City Sentul
-Jika anda sedang mencari rumah baru di Sentul, Bogor yang dikembangkan oleh developer terpercaya Indonesia, hubungi saat ini juga sales rumah Citra City Sentul untuk membeli rumah cluster Chardonnay.
+Jika anda sedang mencari rumah baru di Sentul, Bogor yang dikembangkan oleh developer terpercaya Indonesia, hubungi saat ini juga [sales rumah Citra City Sentul](https://www.propertilaunch.com/2023/05/citra-city-sentul-proyek-perumahan-baru.html) untuk membeli **rumah cluster Chardonnay**.
 
 Untuk info price list harga rumah Citra City Sentul juga dapat anda tanyakan langsung juga karena dapat berubah sewaktu-waktu oleh pengembang.
 
