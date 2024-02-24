@@ -11,7 +11,7 @@ draft: false
 ## Download Brosur Rumah Park Serpong Zen Series
 **Lippo Karawaci group** pada awal Q1 2024 merilis produk hunian **Zen Series @ Park Serpong** dengan tipe rumah baru. **Download brosur rumah Park Serpong Zen Series** sekarang juga untuk melihat tipe rumah apa saja yang tersedia, seperti apa desain rumah, fasilitas yang tersedia dan info lainnya.
 
-[![brosur rumah park serpong zen series](brosur-rumah-park-serpong-zen-series.webp)](https://drive.google.com/drive/folders/1SqkRsWEPa1quMHGWIHp81XOmdwbbnW9O?usp=drive_link#?)
+[![brosur rumah park serpong zen series](brosur-rumah-park-serpong-zen-series.webp)](https://drive.google.com/drive/folders/1cvZY1bCJRglQJmu3mqwPAvkuMu7u2l_e?usp=drive_link#?)
 
 ## Rumah Park Serpong Zen Series
 Melihat animo konsumen yang begitu besar dengan [rumah XYZ Livin](https://park-serpong.id/portfolio/xyz-livin-park-serpong/) dan [Cendana Livin](https://park-serpong.id/portfolio/cendana-livin-park-serpong/), [Park Serpong](https://park-serpong.id) meluncurkan produk hunian baru Zen Series dengan **rumah Q Livin**, dan tipe baru rumah XYZ dan Cendana Livin.
@@ -75,7 +75,6 @@ Rumah Q Livin Park Serpong tipe Q21 berspesifikasikan:
 
 ![rumah park serpong q livin 21](rumah-park-serpong-zen-series-q21.webp)
 ![denah rumah park serpong q livin 21](denah-rumah-park-serpong-zen-series-q21.webp)
-![interior rumah park serpong q livin 21](interior-desain-rumah-park-serpong-zen-series-q21.webp)
 
 ## Rumah XYZ Livin Park Serpong
 Tipe rumah Park Serpong XYZ Livin memiliki tema ***"Modern Artistic Homes"***. 
