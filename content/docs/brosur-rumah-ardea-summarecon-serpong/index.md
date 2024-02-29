@@ -10,7 +10,7 @@ draft: false
 ---
 
 ## Download Brosur Rumah Ardea Summarecon Serpong
-Download **brosur rumah Ardea Summarecon Serpong** yang telah dirilis secara resmi oleh pengembang [Summarecon](https://alam-sutera.com#?). Rumah Ardea adalah rumah mewah baru di Summarecon Serpong yang berlokasikan di kawasan cluster Heron The Spring Gading Serpong.
+Download **brosur rumah Ardea Summarecon Serpong** yang telah dirilis secara resmi oleh pengembang [Summarecon](https://www.summarecon.com/#?). Rumah Ardea adalah rumah mewah baru di Summarecon Serpong yang berlokasikan di kawasan cluster Heron The Spring Gading Serpong.
 
 [![brosur rumah ardea summarecon serpong](brosur-rumah-ardea-summarecon-serpong.webp)](https://drive.google.com/drive/folders/18_faw5pWuqFlM2N9k_aZPEVPkJwkVKk3?usp=drive_link#?)
 
