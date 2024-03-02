@@ -23,7 +23,7 @@ Download **brosur rumah Ardea Summarecon Serpong** yang telah dirilis secara res
 ![Show Unit Rumah Ardea Summarecon Serpong](show-unit-rumah-ardea-summarecon-serpong.webp)
 ![Ardea Summarecon Serpong](ardea-summarecon-serpong.webp)
 
-**Rumah Ardea** memiliki desain rumah modern yang sempurna, dimana area ruangan yang luas disetiap lantai, plafon volume ganda, dilengkapi pavillion pribadi dan spesifikasi dan fitur rumah sangat premium seperti smart home, EV charging ready, lift, automatic garage door, USB power charging, indoor/outdoor smart cctv.
+**[Rumah Ardea Gading Serpong](https://gadingserponghome.com/baru/cluster-ardea-the-spring-summarecon-serpong/)** memiliki desain rumah modern yang sempurna, dimana area ruangan yang luas disetiap lantai, plafon volume ganda, dilengkapi pavillion pribadi dan spesifikasi dan fitur rumah sangat premium seperti smart home, EV charging ready, lift, automatic garage door, USB power charging, indoor/outdoor smart cctv.
 
 ![ruang keluarga rumah ardea Summarecon Serpong](ruang-keluarga-rumah-ardea-summarecon-serpong.webp)
 ![ruang makan rumah ardea Summarecon Serpong](ruang-makan-rumah-ardea-summarecon-serpong.webp)
